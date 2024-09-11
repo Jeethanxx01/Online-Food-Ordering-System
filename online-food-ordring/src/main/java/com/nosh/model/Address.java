@@ -12,7 +12,7 @@ public class Address {
     @GeneratedValue(strategy= GenerationType.AUTO)
     private long id;
 
-    private Food food;
+
 
 
 }

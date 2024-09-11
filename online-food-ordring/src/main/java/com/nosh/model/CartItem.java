@@ -23,8 +23,7 @@ public class CartItem {
     @JsonIgnore
     private Cart cart;
 
-    @ManyToOne
-    private Food food;
+
 
     private int quantity;
 
