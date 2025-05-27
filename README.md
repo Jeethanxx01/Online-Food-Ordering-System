@@ -43,16 +43,12 @@ This project is a full-stack Online Food Ordering System that revolutionizes the
 
 ### 👥 Customer Experience
 - 🍔 **Intuitive Menu Browsing**: Easy-to-navigate restaurant and menu listings
-- 🛒 **Smart Ordering**: Streamlined order placement process
-- 📱 **Real-time Tracking**: Live order status updates
-- 📊 **Order History**: Comprehensive order tracking and history
+- 📊 **Order History**: Comprehensive order history
 - ⭐ **User Reviews**: Customer feedback and rating system
 
 ### 🍳 Restaurant Management
 - 📝 **Menu Management**: Dynamic menu creation and updates
-- 📈 **Order Analytics**: Detailed sales and customer insights
-- ⚡ **Real-time Updates**: Instant order notifications
-- 📊 **Performance Metrics**: Business analytics dashboard
+- 🛒 **Smart Ordering**: Streamlined order placement process
 
 ## 🛠️ Tech Stack
 
@@ -138,20 +134,16 @@ mvn spring-boot:run
 
 ## 🗺️ Future Roadmap
 
-- [ ] **Phase 1**: User Authentication & Authorization
-  - OAuth2 integration
-  - Role-based access control
+- [ ] **Phase 1**: 
   - Two-factor authentication
 
-- [ ] **Phase 2**: Payment Integration
-  - Multiple payment gateway support
+- [ ] **Phase 2**: 
   - Secure payment processing
   - Transaction history
 
-- [ ] **Phase 3**: Advanced Features
+- [ ] **Phase 3**: 
   - Real-time chat support
   - AI-powered recommendations
-  - Mobile application development
 
 ## 🤝 Contributing
 
@@ -162,32 +154,3 @@ We welcome contributions! Please follow these steps:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-## 📞 Contact
-
-For any inquiries or collaboration opportunities:
-
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Portfolio**: [Your Portfolio Website]
-
----
-
-<div align="center">
-
-### 📸 Screenshots
-*[Add screenshots of your application here]*
-
-### 🎥 Demo
-*[Add a GIF or video demo of your application here]*
-
-</div>
-
----
-
-<div align="center">
-Made with ❤️ by [Your Name]
-</div>
-
-
